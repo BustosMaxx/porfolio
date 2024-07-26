@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+centralpuerto.cloud.invgate.net	FALSE	/	TRUE	0	SimpleSAMLSessionID	3de9dca02969aad361f1b3e075d4ee52
+centralpuerto.cloud.invgate.net	FALSE	/	TRUE	0	SimpleSAMLAuthToken	_23c69d22501a2a676164f67e92f6bfb8f96018f249
+centralpuerto.cloud.invgate.net	FALSE	/	TRUE	0	PHPSESSID	57ce9fe3238245dd747856e36246b3e7
